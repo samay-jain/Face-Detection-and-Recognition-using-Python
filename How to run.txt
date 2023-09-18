@@ -1,0 +1,12 @@
+Before proceeding please download all the files mentioned in the Readme of this Repository.
+
+1. Firstly you need to create a dataset, for that purpose open cmd and run the following command to execute a program which captures 300 images of a single person at a time.
+
+- python CapImg.py
+and then enter the name of the person
+
+2. Then after you need to train the model for the recognition, for that use the following command
+- python TrainModel.py
+
+3. Then to execute the model on realtime webcam footage use the following command
+- python RecFace.py
