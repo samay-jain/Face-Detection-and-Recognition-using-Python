@@ -8,6 +8,8 @@ TrainModel.py file link: https://drive.google.com/file/d/1SQ9Hby13srU5gk3pgOT6q1
 
 Later in the next step, you will just need to execute the model on a real-time webcam using the Python file "RecFace.py". It detects faces by using "haarcascade_frontalface_default.xml" and recognizes the faces present in the frame captured by the webcam by using the encodings in the "encodings.pickle" file.
 
+All the information regarding how to execute or run the project is given in the txt file "How to run.txt" you can go through it for more information.
+And the most important thing, you must have to install all the required libraries and modules before execution.
 You can watch the final output of the project using the below link.
 
 link to the output: https://drive.google.com/file/d/1_d9nlEwhH4SAlc9zw5yWAMGLcnuqvfp4/view?usp=sharing
