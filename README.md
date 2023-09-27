@@ -1,4 +1,4 @@
-#Face Detection and Recognition using Python
+# Face Detection and Recognition using Python
 
 ![github upload](https://github.com/samay-jain/Face-Detection-and-Recognition-using-Python/assets/116068471/61235bbd-b9be-478c-8b29-ca8a12208dcd)
 
